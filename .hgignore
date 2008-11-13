@@ -1,0 +1,9 @@
+syntax: glob
+*.beam
+*.pyc
+*.swp
+*.tmp
+.DS_Store
+
+syntax: regexp
+^.svn/.*$
