@@ -6,4 +6,4 @@ syntax: glob
 .DS_Store
 
 syntax: regexp
-^.svn/.*$
+^(.*/)?.svn/.*$
